@@ -15,7 +15,7 @@ namespace url_shortener.Controllers
     public class HomeController : Controller
     {
         private readonly IMongoDatabase mongoDatabase;
-        private const string ServiceUrl = "http://localhost:5000";
+        private const string ServiceUrl = "Request.Url.Host";
         
         private readonly ILogger<HomeController> _logger;
 

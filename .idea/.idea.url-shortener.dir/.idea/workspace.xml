@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c56eada-ccc2-4e18-8c94-41c0b062518a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.url-shortener.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/ShortenedUrl.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Views/Home/ShortenUrl.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Home/ShortenUrl.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.url-shortener.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.url-shortener.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.url-shortener.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.url-shortener.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.RazorCoreGenerate.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/url-shortener.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/url-shortener.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/url-shortener.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/url-shortener.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/url-shortener.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/url-shortener.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/url-shortener.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/url-shortener.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,28 +27,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="158">
+              <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
               <folding>
-                <marker date="1590583049863" expanded="true" signature="6:283" ph="..." />
-                <marker date="1590583049863" expanded="true" signature="320:3014" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="367:3012" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="625:888" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="1444:1503" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="1609:1656" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="1752:2742" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="2214:2692" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="2354:2567" ph="{...}" />
-                <marker date="1590583049863" expanded="true" signature="2873:3006" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="6:283" ph="..." />
+                <marker date="1590585529095" expanded="true" signature="320:3064" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="367:3062" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="620:938" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="1494:1553" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="1659:1706" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="1802:2792" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="2264:2742" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="2404:2617" ph="{...}" />
+                <marker date="1590585529095" expanded="true" signature="2923:3056" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Views/Home/ShortenUrl.cshtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -109,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/Models/ShortenedUrl.cs" />
-        <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/Views/ShortenUrl.cshtml" />
+        <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
       </list>
     </option>
   </component>
@@ -230,12 +198,27 @@
       <workItem from="1590525724312" duration="21000" />
       <workItem from="1590525797628" duration="153000" />
       <workItem from="1590526071759" duration="75000" />
-      <workItem from="1590580472306" duration="3287000" />
+      <workItem from="1590580472306" duration="4933000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished Up">
+      <created>1590583905911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590583905911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished Up">
+      <created>1590585131651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590585131651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3536000" />
+    <option name="totallyTimeSpent" value="5182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,6 +271,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished Up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Up" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -314,6 +301,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Home/ShortenUrl.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1590583167662" expanded="true" signature="22:67" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Models/ShortenedUrl.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -328,30 +326,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="158">
+          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
           <folding>
-            <marker date="1590583049863" expanded="true" signature="6:283" ph="..." />
-            <marker date="1590583049863" expanded="true" signature="320:3014" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="367:3012" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="625:888" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="1444:1503" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="1609:1656" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="1752:2742" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="2214:2692" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="2354:2567" ph="{...}" />
-            <marker date="1590583049863" expanded="true" signature="2873:3006" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Home/ShortenUrl.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1590583167662" expanded="true" signature="22:67" ph="@..." />
+            <marker date="1590585529095" expanded="true" signature="6:283" ph="..." />
+            <marker date="1590585529095" expanded="true" signature="320:3064" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="367:3062" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="620:938" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="1494:1553" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="1659:1706" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="1802:2792" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="2264:2742" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="2404:2617" ph="{...}" />
+            <marker date="1590585529095" expanded="true" signature="2923:3056" ph="{...}" />
           </folding>
         </state>
       </provider>
