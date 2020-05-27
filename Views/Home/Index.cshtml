@@ -1,8 +1,26 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Url Shortener";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>A url shortener built with ASP.NET Core and Mongo DB</p>
+</div>
+
+<div style="width: 100%; margin-top: 60px;">
+    <div style="width: 65%; margin-left: auto; margin-right: auto;">
+        <form id="form" style="text-align: center;" asp-action="ShortenUrl" method="post">
+            <input
+                type="text"
+                placeholder="Enter Url ..."
+                style="width: 100%; border-radius: 5px; height: 45px;"
+                name="longUrl"/>
+
+            <button
+                style="background-color: darkgreen; color: white; padding: 10px; margin-top: 25px; border-radius: 8px;"
+                type="submit">
+                Shorten Url
+            </button>
+        </form>
+    </div>
 </div>

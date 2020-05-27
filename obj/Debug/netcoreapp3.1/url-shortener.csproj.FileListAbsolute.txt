@@ -33,3 +33,13 @@
 /mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/obj/Debug/netcoreapp3.1/url-shortener.dll
 /mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/obj/Debug/netcoreapp3.1/url-shortener.pdb
 /mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/obj/Debug/netcoreapp3.1/url-shortener.csproj.CopyComplete
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/bin/Debug/netcoreapp3.1/shortid.dll
+C:/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/obj/Debug/netcoreapp3.1/url-shortener.dll
+C:/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/obj/Debug/netcoreapp3.1/url-shortener.pdb
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/bin/Debug/netcoreapp3.1/DnsClient.dll
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/bin/Debug/netcoreapp3.1/MongoDB.Libmongocrypt.dll
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/bin/Debug/netcoreapp3.1/SharpCompress.dll
+/mnt/c/Users/bolorundurovb/Documents/Web Projects/ASP/url-shortener/obj/Debug/netcoreapp3.1/Razor/Views/Home/ShortenUrl.cshtml.g.cs

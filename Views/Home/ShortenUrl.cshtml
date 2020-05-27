@@ -1,0 +1,13 @@
+@model ShortenedUrl;
+
+@{
+    ViewData["Title"] = "Shortened Url";
+}
+
+<div style="width: 100%; padding: 30px;">
+    <div>
+        <div>Short Code: @Model.ShortCode</div>
+        <div>Short Url: @Model.ShortUrl</div>
+        <div>Long Url: @Model.OriginalUrl</div>
+    </div>
+</div>
