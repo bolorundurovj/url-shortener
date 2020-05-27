@@ -23,7 +23,7 @@ namespace url_shortener.Controllers
         {
             _logger = logger;
             
-            var connectionString = "mongodb://localhost:27017/";
+            var connectionString = "mongodb://admin:admin1234@ds048537.mlab.com:48537/url-shortener?retryWrites=false";
             var mongoClient = new MongoClient(connectionString);
             mongoDatabase = mongoClient.GetDatabase("url-shortener");
         }
