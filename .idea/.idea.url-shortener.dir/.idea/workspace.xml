@@ -4,6 +4,12 @@
     <list default="true" id="8c56eada-ccc2-4e18-8c94-41c0b062518a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.url-shortener.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.url-shortener.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/ShortenedUrl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/ShortenedUrl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Home/ShortenUrl.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/ShortenUrl.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/url-shortener.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/url-shortener.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +22,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Models/ShortenedUrl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="120">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding>
-                <marker date="1590581665946" expanded="true" signature="6:78" ph="..." />
-                <marker date="1590581665946" expanded="true" signature="110:401" ph="{...}" />
-                <marker date="1590581665946" expanded="true" signature="142:399" ph="{...}" />
+                <marker date="1590586444926" expanded="true" signature="6:78" ph="..." />
+                <marker date="1590586444926" expanded="true" signature="109:400" ph="{...}" />
+                <marker date="1590586444926" expanded="true" signature="141:398" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -30,19 +36,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+            <state relative-caret-position="403">
+              <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
               <folding>
-                <marker date="1590585529095" expanded="true" signature="6:283" ph="..." />
-                <marker date="1590585529095" expanded="true" signature="320:3064" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="367:3062" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="620:938" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="1494:1553" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="1659:1706" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="1802:2792" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="2264:2742" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="2404:2617" ph="{...}" />
-                <marker date="1590585529095" expanded="true" signature="2923:3056" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="6:283" ph="..." />
+                <marker date="1590587982986" expanded="true" signature="320:3089" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="643:961" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="1517:1576" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="1682:1729" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="1825:2817" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="2287:2767" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="2427:2642" ph="{...}" />
+                <marker date="1590587982986" expanded="true" signature="2948:3081" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,8 +81,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
-        <option value="$PROJECT_DIR$/Models/ShortenedUrl.cs" />
         <option value="$PROJECT_DIR$/Views/ShortenUrl.cshtml" />
+        <option value="$PROJECT_DIR$/Models/ShortenedUrl.cs" />
         <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
       </list>
     </option>
@@ -198,7 +203,7 @@
       <workItem from="1590525724312" duration="21000" />
       <workItem from="1590525797628" duration="153000" />
       <workItem from="1590526071759" duration="75000" />
-      <workItem from="1590580472306" duration="4933000" />
+      <workItem from="1590580472306" duration="7383000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Up">
       <created>1590583905911</created>
@@ -214,11 +219,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590585131651</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Url Update">
+      <created>1590585668060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590585668060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5182000" />
+    <option name="totallyTimeSpent" value="7632000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,7 +245,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -273,7 +285,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished Up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Up" />
+    <MESSAGE value="Url Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Url Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -314,31 +327,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Models/ShortenedUrl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="120">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding>
-            <marker date="1590581665946" expanded="true" signature="6:78" ph="..." />
-            <marker date="1590581665946" expanded="true" signature="110:401" ph="{...}" />
-            <marker date="1590581665946" expanded="true" signature="142:399" ph="{...}" />
+            <marker date="1590586444926" expanded="true" signature="6:78" ph="..." />
+            <marker date="1590586444926" expanded="true" signature="109:400" ph="{...}" />
+            <marker date="1590586444926" expanded="true" signature="141:398" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        <state relative-caret-position="403">
+          <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
           <folding>
-            <marker date="1590585529095" expanded="true" signature="6:283" ph="..." />
-            <marker date="1590585529095" expanded="true" signature="320:3064" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="367:3062" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="620:938" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="1494:1553" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="1659:1706" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="1802:2792" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="2264:2742" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="2404:2617" ph="{...}" />
-            <marker date="1590585529095" expanded="true" signature="2923:3056" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="6:283" ph="..." />
+            <marker date="1590587982986" expanded="true" signature="320:3089" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="643:961" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="1517:1576" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="1682:1729" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="1825:2817" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="2287:2767" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="2427:2642" ph="{...}" />
+            <marker date="1590587982986" expanded="true" signature="2948:3081" ph="{...}" />
           </folding>
         </state>
       </provider>

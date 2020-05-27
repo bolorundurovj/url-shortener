@@ -15,7 +15,7 @@ namespace url_shortener.Controllers
     public class HomeController : Controller
     {
         private readonly IMongoDatabase mongoDatabase;
-        private const string ServiceUrl = "Request.Url.Host";
+        private const string ServiceUrl = "https://asp-url-shortener.herokuapp.com";
         
         private readonly ILogger<HomeController> _logger;
 
@@ -71,7 +71,7 @@ namespace url_shortener.Controllers
                     CreatedAt = DateTime.UtcNow,
                     OriginalUrl = longUrl,
                     ShortCode = shortCode,
-                    ShortUrl = $"{ServiceUrl}/{shortCode}"
+                    ShortUrl = $"{ServiceUrl}?u={shortCode}"
                 };
                 // add to database
                 await shortenedUrlCollection.InsertOneAsync(shortenedUrl);
